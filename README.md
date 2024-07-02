@@ -26,7 +26,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/flask-crud-docker.git
+git clone https://github.com/anamika1804/flask-crud-docker.git
 cd flask-crud-docker
 # 2. Environment Variables
 Create a .env file in the root directory of the project and add the following environment variable:
